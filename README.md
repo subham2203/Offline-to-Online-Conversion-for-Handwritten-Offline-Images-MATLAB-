@@ -9,3 +9,5 @@ find_angles.m compute the angles for connected strokes at the junction-points.
 
 More Details about the implemented concepts are furnished in the the paper :
 http://ieeexplore.ieee.org/abstract/document/602037/
+
+A demonstration of the tracking procedure can be found here: https://drive.google.com/open?id=0B-SyYE_cCFMbY0E4WEgtcGZndGs
