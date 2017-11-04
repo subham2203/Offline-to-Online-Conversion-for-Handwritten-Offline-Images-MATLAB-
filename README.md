@@ -7,6 +7,8 @@ convert.m is the main code for the stroke recovery process.
 
 find_angles.m compute the angles for connected strokes at the junction-points.
 
+This algorithm works find without upper and lower modifiers. On addition of modifiers the sequence of tracking gets a bit confusing due to the left-right tracking logic. A zonal segmentation logic as mentioned in https://arxiv.org/abs/1708.00227 can help solve this problem.
+
 More Details about the implemented concepts are furnished in the the paper :
 http://ieeexplore.ieee.org/abstract/document/602037/
 
